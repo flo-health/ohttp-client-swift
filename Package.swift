@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LibAppRelay",
-            url: "https://github.com/cloudflare/privacy-gateway-client-library/releases/download/v0.0.4/LibAppRelay.xcframework.zip",
-            checksum: "f2fe029022ee3db61f7a500f1864416aa2b21a72226220f7efb318dc8cfbe583"
+            url: "https://github.com/cloudflare/privacy-gateway-client-library/releases/download/v0.0.7/LibAppRelay.xcframework.zip",
+            checksum: "8b4ab526eec38cb60288b58bf13fce635a38777bfc719debcbb54db756f20048"
         ),
         
         .target(
